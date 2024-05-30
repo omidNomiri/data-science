@@ -15,23 +15,29 @@ in this part i'm analyze billionaires and Messi's data.
 #### billionaires
 
 Countries with the most billionaires
+
 ![Countries with the most billionaires](output/Countries_with_the_most_billionaires.png)
 
 Industries in which billionaires are active
+
 ![Industries in which billionaires are active](output/Industries_in_which_billionaires_are_active.png)
 
 Top 10 billionaires of US
+
 ![Top 10 billionaires of US](output/Top_10_billionaires_of_US.png)
 
 #### Messi
 
 goal per year
+
 ![goal per year](output/goal_per_year.png)
 
 Messi's goals minutes
+
 ![Messi's goals minutes](output/Messi's_goals_minutes.png)
 
 score in extra time
+
 ![score in extra time](output/score_in_extra_time.png)
 
 ## Getting Started <a name = "getting_started"></a>
